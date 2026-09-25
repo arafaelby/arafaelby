@@ -12,8 +12,7 @@
 <br>
 <div align="center">
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arafaelby&theme=jolly) | | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arafaelby&theme=jolly&utcOffset=8) |
-| :-: | :-: | :-: |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arafaelby&theme=jolly) | | !
 
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arafaelby&theme=jolly) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arafaelby&theme=jolly&hide_border=true)](https://git.io/streak-stats) |
 | :-: | :-: |
